@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Action Bar-->
+    <dimen name="action_Bar_Height">50dp</dimen>
+    <dimen name="action_Bar_Text_Size">18dp</dimen>
+    <dimen name="action_Bar_Text_Left_Padding">20dp</dimen>
+
+    <!--Fragments Container-->
+    <dimen name="fragment_Container_Margin">0dp</dimen>
+
+    <!--Fragments-->
+    <dimen name="layout_Margin">0dp</dimen>
+
+    <!--RecyclerView-->
+
+    <!--RecyclerView Item-->
+    <dimen name="rv_Item_Margin">0dp</dimen>
+    <dimen name="rv_Item_Padding">12dp</dimen>
+    <dimen name="rv_Item_Image_Height">67dp</dimen>
+    <dimen name="rv_Item_Image_Width">67dp</dimen>
+    <dimen name="rv_Item_Text_Size">17dp</dimen>
+    <dimen name="rv_Item_Elevation">8dp</dimen>
+
+    <!--Map Route Button-->
+    <dimen name="map_Route_Button_Height">60dp</dimen>
+    <dimen name="map_Route_Button_Width">60dp</dimen>
+    <dimen name="map_Location_Button_Height">35dp</dimen>
+    <dimen name="map_Location_Button_Width">35dp</dimen>
+    <dimen name="map_Button_Layout_Margin">16dp</dimen>
+    <dimen name="map_Layout_Button_Linespacing">2dp</dimen>
+    <dimen name="map_Layout_Button_Text_Size">12dp</dimen>
+    <dimen name="map_Layout_Button_Elevation">8dp</dimen>
+
+</resources>

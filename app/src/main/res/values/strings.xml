@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Travel_Guide</string>
+
+
+    <!-- MAIN_MENU ITEMS -->
+    <string name="NearBy">Near by</string>
+    <string name="MyLocation">My Location</string>
+    <string name="Wonder">Wonder of the World</string>
+    <string name="FindRoute">Find Route</string>
+    <string name="AddReview">Add Review</string>
+    <string name="Share">Share</string>
+    <string name="Rating">Rating</string>
+    <string name="Privacy_Policy">Privacy Policy</string>
+    <string name="More_Apps">More Apps</string>
+    <string name="suggestion">Suggestion Box</string>
+    <string name="Exit">Exit</string>
+
+    <!-- WONDERS OF THE WORLD -->
+    <string name="Great_Wall_of_China">Great Wall of China</string>
+    <string name="Christ_the_Redeemer_Statue">Christ the Redeemer Statue</string>
+    <string name="Machu_Picchu">Machu Picchu</string>
+    <string name="Chichen_Itza">Chichen Itza</string>
+    <string name="The_Roman_Colosseum">The Roman Colosseum</string>
+    <string name="Taj_Mahal">Taj Mahal</string>
+    <string name="Petra">Petra</string>
+    <string name="Eiffel_Tower">Eiffel Tower</string>
+    <string name="Leaning_Tower">Leaning Tower</string>
+
+    <!-- NEAR BY -->
+    <string name="Restaurants">Restaurant</string>
+    <string name="Airports">Airport</string>
+    <string name="Hospitals">Hospital</string>
+    <string name="ATM">ATM</string>
+    <string name="Banks">Bank</string>
+    <string name="Disco">Night_Club</string>
+    <string name="Pharmacy">Pharmacy</string>
+    <string name="Parking">Parking</string>
+    <string name="School">School</string>
+    <string name="petrol_station">Gas_Station</string>
+    <string name="CNG_Station">Gas_Station</string>
+    <string name="Diesel_Station">Gas_Station</string>
+    <string name="Metro_Station">Light_Rail_Station</string>
+    <string name="Bus_stop">Bus_Station</string>
+    <string name="Police_Station">Police</string>
+    <string name="Fire_station">Fire_station</string>
+    <string name="Old_Age_House">Old Age House</string>
+    <string name="Orphanage">Orphanage</string>
+    <string name="Bar">Bar</string>
+    <string name="Country_Club">Country</string>
+    <string name="Hotel">Spa</string>
+    <string name="Apartment">Lodging</string>
+    <string name="Cinema">Movie_Theater</string>
+    <string name="Shopping_Mall">Shopping_Mall</string>
+    <string name="Mart">Grocery_or_Supermarket</string>
+    <string name="Stadium">Stadium</string>
+    <string name="College">University</string>
+    <string name="University">University</string>
+    <string name="Court">CourtHouse</string>
+    <string name="Subway">Subway_Station</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

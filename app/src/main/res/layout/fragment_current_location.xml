@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:layout_margin="@dimen/layout_Margin">
+
+    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:id="@+id/map"
+              android:name="com.google.android.gms.maps.SupportMapFragment"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              tools:context="Fragments.CurrentLocation"/>
+
+
+    <ImageView
+        android:id="@+id/clCurrentLocation"
+        android:layout_width="@dimen/map_Location_Button_Width"
+        android:layout_height="@dimen/map_Location_Button_Height"
+        android:src="@drawable/gps"
+        android:layout_gravity="top|right"
+        android:background="@drawable/my_own_button"
+        android:tint="#FFFFFF"
+        android:layout_margin="@dimen/map_Button_Layout_Margin">
+    </ImageView>
+
+    <Button
+        android:text="@string/FindRoute"
+        android:elevation="@dimen/map_Layout_Button_Elevation"
+        android:id="@+id/clFloatingButton"
+        android:textSize="@dimen/map_Layout_Button_Text_Size"
+        android:lineSpacingExtra="@dimen/map_Layout_Button_Linespacing"
+        android:textColor="#FFFFFF"
+        android:layout_width="@dimen/map_Route_Button_Width"
+        android:layout_height="@dimen/map_Route_Button_Height"
+        android:background="@drawable/my_own_button"
+        android:layout_gravity="bottom|right"
+        android:layout_margin="@dimen/map_Button_Layout_Margin"
+        >
+    </Button>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
