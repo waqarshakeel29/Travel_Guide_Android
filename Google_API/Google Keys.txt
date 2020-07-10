@@ -1,5 +1,0 @@
-Client ID
-140608791235-gugc3lbb363fg3t497hp16454aturgh6.apps.googleusercontent.com
-
-Client Secret
-dbXGfDUfLCABWFevYr0JLHG2
